@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 04 22:09:19 WET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018b-9c62-24a7-000006ffaa00 
+on database directory C:\LabProg\Library with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/35191/git/repository2/ProjetoLPFINALLLLLLL/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.8.1+1
+user.dir=C:\Users\35191\git\repository2\ProjetoLPFINALLLLLLL
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
